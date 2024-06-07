@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SpaceCadet",
   "resources": {
-    "hash": "sha256-HKpZKHsLuK5jJ03MXdzhk1PVAEzNvtl75fHjz18uopI=",
+    "hash": "sha256-zhHqHFu/QAbxMz56GVlsA/E/Bpp/FCS7gIwvHDIHQSQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.lh9w6txx1r.js": "sha256-3rHmxPlH4EDA5iuN7FbSnvuLNervPt0tKE6KST2AflY="
     },
@@ -38,7 +38,7 @@
       "Microsoft.JSInterop.wasm": "sha256-Zf9aEUyIbFr0zhEm1l0Qegf0X6syx4UnSYhzv0lI5SA=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
       "MudBlazor.wasm": "sha256-0kOm4UkuXNauZGmTRh1AGYqI57X5trDyXuizHTZXvUc=",
-      "SpaceCadet.wasm": "sha256-c594xQvAnPIUqBsqFvABsy5tNc2YJtEZ7PvIq5hZ8z4=",
+      "SpaceCadet.wasm": "sha256-vQ2Js+geb+ONVVpyEul0nPvS3Cfb0Egp7aWLBUuj3bk=",
       "System.Collections.Concurrent.wasm": "sha256-gI2IicvZdJm2Y/neeMQQ4m4+Q1GMg/+E9BIrbHmWdbU=",
       "System.Collections.Immutable.wasm": "sha256-J24ukiYuYc6d86wAQnVZs4qx3h/0Uhd4tMXr5sWOpw0=",
       "System.Collections.NonGeneric.wasm": "sha256-5alNvjxelunIJYPBS9RuIZoH4airJw+ZlDViOeev/ek=",
