@@ -1,0 +1,10 @@
+baseURL = 'https://mitchmakesthings.online/'
+languageCode = 'en-us'
+title = 'MitchMakesThings'
+theme = 'paper'
+
+[params]
+github = 'MitchMakesThings'
+rss = true
+
+name = 'Mitch'
