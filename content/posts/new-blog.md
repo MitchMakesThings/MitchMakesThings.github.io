@@ -1,6 +1,6 @@
 +++
 date = '2025-08-22T16:59:19+01:00'
-draft = true
+draft = false
 title = 'New Blog'
 +++
 ## Introduction
