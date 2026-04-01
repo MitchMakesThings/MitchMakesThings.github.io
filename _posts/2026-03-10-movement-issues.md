@@ -1,10 +1,9 @@
 ---
-title: Speeding up multiple animations
+title: Animated Movement Problem
 date: 2026-03-10
 categories: [GameDev, Crawler]
 tags: [godot]
 ---
-# Animated Movement Problem
 I've started working on a very-old-school style dungeon crawler. My intent is to participate in the [2026 Dungeon Crawler Jam](https://itch.io/jam/dcjam2026) this year, so I'm experimenting with how the core systems could work.
 
 As with most gamedev stuff these days, Godot is my engine of choice. And it provides some super nice [Tween](https://docs.godotengine.org/en/stable/classes/class_tween.html) behaviour. I'm using the Command Pattern for actions in game - so there's an overall turn manager that asks each Actor what action it would like to perform, and they return something like:
